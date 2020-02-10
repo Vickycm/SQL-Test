@@ -1,5 +1,4 @@
-# SQL-Test
-### For Ant Financial BI
+--#For Ant Financial BI
 --------------------------
 //name, id, title
 
@@ -10,9 +9,3 @@
 //from world 需要几个不同的
 
     where select
-    
-    
-    
-+red
-+bule
-*dao
